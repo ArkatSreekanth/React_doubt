@@ -1,0 +1,9 @@
+.dark-context {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.light-context {
+  background-color: #ffffff;
+  color: #1e293b;
+}

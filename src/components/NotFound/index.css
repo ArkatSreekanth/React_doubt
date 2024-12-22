@@ -1,0 +1,25 @@
+.light-theme-heading {
+  color: #171f46;
+  font-weight: 500;
+  font-size: 26px;
+  margin-bottom: 0px;
+}
+
+.light-theme-desc {
+  font-weight: 400;
+  color: #334155;
+  font-size: 18px;
+}
+
+.dark-theme-heading {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 26px;
+  margin-bottom: 0px;
+}
+
+.dark-theme-desc {
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+}

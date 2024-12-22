@@ -1,0 +1,41 @@
+.dark-theme {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.light-theme {
+  background-color: #ffffff;
+  color: #1e293b;
+}
+
+.navbar-container {
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-family: 'Roboto';
+  align-items: center;
+}
+
+.route-names {
+  list-style: none;
+  padding: 0px;
+  display: flex;
+  width: 25%;
+  justify-content: space-between;
+}
+
+.navbar-img {
+  width: 32px;
+}
+
+.route-name {
+  color: #171f46;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.toggle-btn {
+  background: none;
+  border: none;
+}
